@@ -8,7 +8,7 @@
   - 🎓 Студент [21 School](https://21-school.ru)
 
 ____
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaBear&layout=compact&hide_border=true&hide=jupyter%20notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/YaBear?tab=repositories)
+[![Most Used Languages]()](https://github.com/YaBear?tab=repositories)
 ____
 
 ### 🎓 Учебные проекты
