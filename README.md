@@ -1,4 +1,4 @@
-# 👋 Привет, я Пугачев Владислав или @yabear/@bradamar - DevOps, C/C++/C#/Python Desktop developer 
+# 👋 Привет, я Пугачев Владислав или @YaBear - DevOps, C/C++/C#/Python Desktop developer 
 ## Умения:
   - 👨‍💻 C/C++, C#, Python
   - 🤖 Docker, CI\CD, Kubernetes, Bash, Shell
