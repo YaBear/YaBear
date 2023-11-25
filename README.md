@@ -18,6 +18,7 @@ ____
 | [LinuxNetwork](https://github.com/YaBear/LinuxNetwork) | Создание сети для 5 виртуальных машин | Linux, сети, nginx, VM |
 | [SimpleDocker](https://github.com/YaBear/SimpleDocker) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
 | [CICD](https://github.com/YaBear/CICD) | Построение pipeline's на базе Gitlab | CI\CD, Gitlab, Telegram Bot |
+| [CPPSmartCalc](https://github.com/YaBear/CPPSmartCalc/) | Расширенный калькулятор с возможностью построения графика функций и рассчета кредита | C++, Qt, gtest, makefile |
 
 ### 🛠 Pet-проекты
 | Name | Description | Tools |
