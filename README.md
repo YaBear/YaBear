@@ -19,6 +19,7 @@ ____
 | [SimpleDocker](https://github.com/YaBear/SimpleDocker) | Работа с Docker контейнерами | Docker, Docker Compose, nginx |
 | [CICD](https://github.com/YaBear/CICD) | Построение pipeline's на базе Gitlab | CI\CD, Gitlab, Telegram Bot |
 | [CPPSmartCalc](https://github.com/YaBear/CPPSmartCalc/) | Расширенный калькулятор с возможностью построения графика функций и рассчета кредита | C++, MVC, Qt, gtest, makefile |
+| [Containers](https://github.com/YaBear/s21_containers) | Повторение реализации стандартной библиотеки C++ STL | C++, STL, MVC, AVL Binary Tree, gtest, makefile |
 | [C#Bootcamp](https://github.com/YaBear/CSharpBootcamp) | Кластер учебных проектов по изучению C# | C#, shell |
 | [SQLBootcamp](https://github.com/YaBear/SQLBootcamp/) | Кластер учебных проектов по изучению работы с PostgreSQL | PostgreSQL |
 
