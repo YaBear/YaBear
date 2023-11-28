@@ -1,7 +1,7 @@
 # 👋 Привет, я Пугачев Владислав или @YaBear - DevOps, C/C++/C#/Python Desktop developer 
 ## Умения:
   - 👨‍💻 C/C++, C#, Python
-  - 🤖 Docker, CI\CD, Kubernetes, Bash, Shell
+  - 🤖 Docker, Kubernetes, Bash, Shell, Ansible, Jenkins, Gitlab CI\CD
   - 🗄 PostgreSQL, SQLite
 
 ## Учеба: 
